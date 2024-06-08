@@ -1,0 +1,2 @@
+SELECT avg(price) as average_price, max(price) as max_price, min(price) as min_price
+FROM mydb.products;
